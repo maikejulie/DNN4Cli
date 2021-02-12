@@ -1,4 +1,4 @@
-![Logo](https://github.com/maikejulie/DNN4Cli/blob/master/figures/sketch.png?raw=true)
+![Logo](https://github.com/maikejulie/DNN4Cli/blob/main/figures/sketch.png?raw=true)
 # THOR: Tracking the impact of global Heating on Ocean Regimes
 
 This is the source code related to the publication (in review for JAMES)
