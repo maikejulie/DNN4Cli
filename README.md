@@ -13,8 +13,5 @@ This repository contains the codes used for accessing the data and the weights o
 ## Quick start
 
 ## Access the data
-The data is hosted on AWS....
+The data is hosted on AWS, we are preparing codes to help you access it ((ongoing))
 
-## The Ensemble MLP
-
-## LRP method
