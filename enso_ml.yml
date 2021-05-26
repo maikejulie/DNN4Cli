@@ -1,4 +1,4 @@
-name: /home/jovyan/my-conda-envs/enso_ml
+name: enso_ml
 channels:
   - anaconda
   - defaults
