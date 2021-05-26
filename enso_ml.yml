@@ -65,6 +65,7 @@ dependencies:
   - heapdict=1.0.1=py_0
   - icu=58.2=hf484d3e_1000
   - idna=2.10=pyh9f0ad1d_0
+  - imageio=2.9.0=py_0
   - importlib-metadata=4.0.1=py39hf3d152e_0
   - intake=0.6.2=pyhd8ed1ab_0
   - intake-esm=2021.1.15=pyhd8ed1ab_0
