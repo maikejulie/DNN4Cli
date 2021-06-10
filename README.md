@@ -12,6 +12,15 @@ This repository contains the codes used for accessing the data and the weights o
 
 ## Quick start
 
+Go to THOR folder, where you will find notebooks on the individual steps of THOR. 
+
+If you are only interested in applying the already trained EnsembleMLP of THOR, go to the folder THOR/ApplicationOnCMIPModels to find an example of the application of THOR on the IPSL-CM6-LR model
+
 ## Access the data
-The data is hosted on AWS, we are preparing codes to help you access it ((ongoing))
+
+For this paper we used the CMIP6 data hosted on AWS, but you can use your preffered source of CMIP6 models, other data for the training of THOR is present in each step-specific folder.
+
+## Contact
+
+Do not hesitate to send us an email if you have any question !
 
