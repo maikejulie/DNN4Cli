@@ -18,7 +18,9 @@ If you are only interested in applying the already trained EnsembleMLP of THOR, 
 
 ## Access the data
 
-For this paper we used the CMIP6 data hosted on AWS, but you can use your preffered source of CMIP6 models, other data for the training of THOR is present in each step-specific folder.
+For this paper we used the CMIP6 data hosted on AWS, but you can use your preffered source of CMIP6 models.
+
+Other data for the training of THOR is present in each step-specific folder.
 
 ## Contact
 
