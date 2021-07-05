@@ -1,10 +1,10 @@
 
 # THOR: Tracking the impact of global Heating on Ocean Regimes
 
-This is the source code related to the publication (in review for JAMES)
+This is the source code related to the publication
 > Maike Sonnewald and Redouane Lguensat, 2021.
 > Revealing the impact of global heating on North Atlantic circulation using transparent machine learning.
-> essoar: [https://www.essoar.org/doi/10.1002/essoar.10506146.2](https://www.essoar.org/doi/10.1002/essoar.10506146.2)
+> Paper: [https://doi.org/10.1029/2021MS002496](https://doi.org/10.1029/2021MS002496)
 
 ![Logo](https://github.com/maikejulie/DNN4Cli/blob/main/figures/sketch.png?raw=true)
 
