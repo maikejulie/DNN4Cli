@@ -1,3 +1,12 @@
+[![MIT
+license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/epiforecasts/covidregionaldata/blob/master/LICENSE.md/)
+[![GitHub
+contributors](https://img.shields.io/github/contributors/maikejulie/DNN4CLi)](https://github.com/maikejulie/DNN4Cli/graphs/contributors)
+[![PRs
+Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://makeapullrequest.com/)
+[![GitHub
+commits](https://img.shields.io/github/commits-since/maikejulie/DNN4cli/0.svg?color=orange)](https://GitHub.com/maikejulie/DNN4cli/commit/main/)
+[![DOI](http://img.shields.io/badge/DOI-10.1029/2021MS002496-B31B1B.svg)](https://doi.org/10.1029/2021MS002496)
 
 # THOR: Tracking the impact of global Heating on Ocean Regimes
 
