@@ -1,5 +1,5 @@
 [![MIT
-license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/epiforecasts/covidregionaldata/blob/master/LICENSE.md/)
+license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/maikejulie/DNN4Cli/blob/main/LICENSE/)
 [![GitHub
 contributors](https://img.shields.io/github/contributors/maikejulie/DNN4CLi)](https://github.com/maikejulie/DNN4Cli/graphs/contributors)
 [![PRs
