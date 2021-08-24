@@ -33,7 +33,7 @@ Other data for the training of THOR is present in each step-specific folder.
 
 ## Contact
 
-Do not hesitate to send us an email if you have any question !
+Do not hesitate to send us an email if you have any questions !
 
 *Maike Sonnewald*: maikes "at" princeton.edu
 
