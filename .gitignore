@@ -2,4 +2,5 @@ figures/PSI_atlantic.npz
 figures/PSI_pacific.npz
 figures/basinMasks.npz
 figures/density20yr.npy
-figures/regimeMasks.npz
+igures/regimeMasks.npz
+THOR/ApplicationOnCMIPModels/CESM2/.ipynb_checkpoints/
