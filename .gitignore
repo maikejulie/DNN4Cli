@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6fa8f1d (update on figures .gitignore)
 figures/PSI_atlantic.npz
 figures/PSI_pacific.npz
 figures/basinMasks.npz
 figures/density20yr.npy
 figures/regimeMasks.npz
+<<<<<<< HEAD
 =======
 # Compiled source #
 ###################
@@ -43,3 +47,5 @@ figures/regimeMasks.npz
 ehthumbs.db
 Thumbs.db
 >>>>>>> d2e9ec8 (update)
+=======
+>>>>>>> 6fa8f1d (update on figures .gitignore)
