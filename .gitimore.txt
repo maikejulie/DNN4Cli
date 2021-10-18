@@ -1,0 +1,5 @@
+#deleting large b.npz files
+*DNN4Cli/figures/PSI_pacific.npz
+*DNN4Cli/figures/regimeMasks.npz
+*DNN4Cli/figures/density20yr.npy
+*DNN4Cli/figures/basinMasks.npz
