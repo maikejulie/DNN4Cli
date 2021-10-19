@@ -27,7 +27,9 @@ If you are only interested in applying the already trained EnsembleMLP of THOR, 
 
 ## Access the data
 
-For this paper we used the CMIP6 data hosted on AWS, but you can use your preffered source of CMIP6 models.
+For this paper we used the CMIP6 data hosted on AWS, but you can use your preffered source of CMIP6 models. Researchers wishing to use the CMIP6 data on AWS can also apply for cloud grants through the AWS Promotional Credit Program. Please check these links:
+* [Registry of CMIP6 data on AWS](https://registry.opendata.aws/cmip6/)
+* [AWS Promotional Credit Program](https://aws.amazon.com/fr/government-education/sustainability-research-credits/)
 
 Other data for the training of THOR is present in each step-specific folder.
 
