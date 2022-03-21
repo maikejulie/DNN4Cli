@@ -18,11 +18,11 @@ lonRoll = np.roll(monthlySSH['lat'].values, axis=0, shift=-1)
 Londiff = lonRoll - monthlySSH['lat'].values  # equivalent to doing x_{i} - x_{i-1}
 
 lat = monthlySSH['lat'].values
-latDiff=1.111774765625000e+05 # what is this value?
+latDiff=1.111774765625000e+05
 latY=np.gradient(lat, axis=0)*latDiff
 lonX=np.abs(np.cos(lat*np.pi/180))*latDiff*Londiff
 
-Omega=7.2921e-5 # coriolis parameter (slightly different to wiki)
+Omega=7.2921e-5 # coriolis parameter
 f = (2*Omega*np.sin(lat*np.pi/180))
 
 def grad(d,y,x):
