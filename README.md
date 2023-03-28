@@ -15,6 +15,11 @@ This is the source code related to the publication
 > Revealing the impact of global heating on North Atlantic circulation using transparent machine learning.
 > Paper: [https://doi.org/10.1029/2021MS002496](https://doi.org/10.1029/2021MS002496)
 
+Companion paper using a probabilistic framework:
+> Mariana Clare, Maike Sonnewald and Redouane Lguensat, Julie Deshayes and V. Balaji, 2022 Explainable Artificial Intelligence for Bayesian Neural Networks: Towards trustworthy predictions of ocean dynamics.
+> Paper: [https://doi.org/10.1029/2022MS003162](http://doi.org/10.1029/2022MS003162)
+
+
 ![Logo](https://github.com/maikejulie/DNN4Cli/blob/main/figures/sketch.png?raw=true)
 
 This repository contains the codes used for accessing the data and the weights of the ensemble MLP used for classifying ocean regimes
